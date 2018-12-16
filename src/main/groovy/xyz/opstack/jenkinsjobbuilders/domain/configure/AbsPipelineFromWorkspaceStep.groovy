@@ -1,5 +1,6 @@
-package uk.gov.hmrc.jenkinsjobbuilders.domain.configure;
+package xyz.opstack.jenkinsjobbuilders.domain.configure
 
+import uk.gov.hmrc.jenkinsjobbuilders.domain.configure.Configure
 
 class AbsPipelineFromWorkspaceStep implements Configure{
 

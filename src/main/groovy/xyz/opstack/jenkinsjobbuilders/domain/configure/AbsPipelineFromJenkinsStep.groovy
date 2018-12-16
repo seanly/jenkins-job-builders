@@ -1,4 +1,4 @@
-package uk.gov.hmrc.jenkinsjobbuilders.domain.configure
+package xyz.opstack.jenkinsjobbuilders.domain.configure
 
 class AbsPipelineFromJenkinsStep implements Configure {
 

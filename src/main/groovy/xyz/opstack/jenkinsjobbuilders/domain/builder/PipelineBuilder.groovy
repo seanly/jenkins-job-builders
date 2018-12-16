@@ -1,7 +1,8 @@
-package uk.gov.hmrc.jenkinsjobbuilders.domain.builder
+package xyz.opstack.jenkinsjobbuilders.domain.builder
 
 import javaposse.jobdsl.dsl.DslFactory
 import javaposse.jobdsl.dsl.Job
+import uk.gov.hmrc.jenkinsjobbuilders.domain.builder.Builder
 import uk.gov.hmrc.jenkinsjobbuilders.domain.parameters.Parameter
 import uk.gov.hmrc.jenkinsjobbuilders.domain.trigger.Trigger
 import uk.gov.hmrc.jenkinsjobbuilders.domain.variable.EnvironmentVariable

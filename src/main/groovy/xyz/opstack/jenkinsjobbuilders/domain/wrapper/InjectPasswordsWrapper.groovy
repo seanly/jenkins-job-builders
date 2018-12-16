@@ -1,4 +1,6 @@
-package uk.gov.hmrc.jenkinsjobbuilders.domain.wrapper
+package xyz.opstack.jenkinsjobbuilders.domain.wrapper
+
+import uk.gov.hmrc.jenkinsjobbuilders.domain.wrapper.Wrapper
 
 class InjectPasswordsWrapper implements Wrapper {
 

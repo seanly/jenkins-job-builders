@@ -1,4 +1,6 @@
-package uk.gov.hmrc.jenkinsjobbuilders.domain.parameters
+package xyz.opstack.jenkinsjobbuilders.domain.parameters
+
+import uk.gov.hmrc.jenkinsjobbuilders.domain.parameters.Parameter
 
 class GitParameter implements Parameter {
 

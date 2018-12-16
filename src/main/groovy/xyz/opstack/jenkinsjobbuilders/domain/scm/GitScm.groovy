@@ -1,4 +1,6 @@
-package uk.gov.hmrc.jenkinsjobbuilders.domain.scm
+package xyz.opstack.jenkinsjobbuilders.domain.scm
+
+import uk.gov.hmrc.jenkinsjobbuilders.domain.scm.Scm
 
 class GitScm implements Scm {
 
